@@ -29,7 +29,7 @@ Follow these steps to set up and run the ELK stack:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/elk-monitoring-docker.git
+git@github.com:ilri/adgg-elk-observability-docker.git
 cd elk-monitoring-docker
 ```
 
