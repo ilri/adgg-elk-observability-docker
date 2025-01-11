@@ -1,6 +1,6 @@
 # ELK Stack Monitoring Project
 
-This project is a Dockerized ELK (Elasticsearch, Logstash, and Kibana) stack for centralized logging, monitoring, and visualization of data. The stack is easy to set up, scalable, and supports various use cases such as log analysis, application monitoring, and system performance tracking.
+This project is a Dockerized ELK (Elasticsearch, Logstash, and Kibana) stack for centralized logging, monitoring, and visualization of data. 
 
 ---
 
